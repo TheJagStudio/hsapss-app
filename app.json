@@ -1,0 +1,79 @@
+{
+    "expo": {
+        "name": "hsapssconnect",
+        "slug": "hsapssconnect",
+        "version": "1.0.0",
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "experiments": {
+            "tsconfigPaths": true
+        },
+        "plugins": [
+            [
+                "expo-font",
+                {
+                    "fonts": [
+                        "./assets/fonts/AestheticRomance-Regular.ttf",
+                        "./assets/fonts/S0728810.ttf"
+                    ],
+                    "android": {
+                        "fonts": [
+                            {
+                                "fontFamily": "hsapss",
+                                "fontDefinitions": [
+                                    {
+                                        "path": "./assets/fonts/AestheticRomance-Regular.ttf"
+                                    }
+                                ]
+                            },
+                            {
+                                "fontFamily": "gujarati",
+                                "fontDefinitions": [
+                                    {
+                                        "path": "./assets/fonts/S0728810.ttf"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "ios": {
+                        "fonts": [
+                            "./assets/fonts/AestheticRomance-Regular.ttf",
+                            "./assets/fonts/S0728810.ttf"
+                        ]
+                    }
+                }
+            ]
+        ],
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true,
+            "infoPlist": {
+                "UIBackgroundModes": [
+                    "audio"
+                ]
+            }
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/adaptive-icon.png",
+                "backgroundColor": "#ffffff"
+            },
+            "permissions": [
+                "FOREGROUND_SERVICE",
+                "FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+            ]
+        }
+    }
+}
