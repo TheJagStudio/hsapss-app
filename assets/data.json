@@ -1,0 +1,1666 @@
+{
+    "2024": {
+        "January": {
+            "GujName": "VS-2079 - Posh-Maha",
+            "startEmpty": 6,
+            "endEmpty": 5,
+            "days": 31,
+            "1": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "1 - Posh Sud Dasham",
+                        "color": "slate-500"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "2": {
+                "data": [
+                    "Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "2 - Posh Sud Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Putrada Ekadashi",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "3": {
+                "data": [
+                    "Baras"
+                ],
+                "events": [
+                    {
+                        "name": "3 - Posh Sud Baras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "4": {
+                "data": [
+                    "Teras"
+                ],
+                "events": [
+                    {
+                        "name": "4 - Posh Sud Teras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "5": {
+                "data": [
+                    "Chaudas"
+                ],
+                "events": [
+                    {
+                        "name": "5 - Posh Sud Chaudas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "6": {
+                "data": [
+                    "GunatitSwami.png"
+                ],
+                "events": [
+                    {
+                        "name": "6 - Posh Sud Poonam",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Gunatitanand Swami Diksha Din",
+                        "color": "#60a5fa"
+                    },
+                    {
+                        "name": "Atmiya Sanskardham - Amadavad",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "7": {
+                "data": [
+                    "Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "7 - Posh Sud Padvo",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "8": {
+                "data": [
+                    "AYMLogo.png"
+                ],
+                "events": [
+                    {
+                        "name": "5 - Posh Vad Bij",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Atmiya Yuva Mohotsav",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "9": {
+                "data": [],
+                "events": [
+                    {
+                        "name": "9 - Posh Vad Bij",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Ode Mandir Patostav",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "templeDate"
+            },
+            "10": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "10 - Posh Vad Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "11": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "11 - Posh Vad Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "12": {
+                "data": [
+                    "Pancham",
+                    "Swami Vivekanand Jayanti"
+                ],
+                "events": [
+                    {
+                        "name": "12 - Posh Vad Pancham",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Swami Vivekanand Jayanti",
+                        "color": "white"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "13": {
+                "data": [
+                    "Chhath"
+                ],
+                "events": [
+                    {
+                        "name": "13 - Posh Vad Chhath",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "14": {
+                "data": [
+                    "kite.png"
+                ],
+                "events": [
+                    {
+                        "name": "14 - Posh Vad Satam",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Makar Sankranti",
+                        "color": "#fb923c"
+                    },
+                    {
+                        "name": "Dhanurmash Sampat",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "15": {
+                "data": [
+                    "Aatham"
+                ],
+                "events": [
+                    {
+                        "name": "15 - Posh Vad Aatham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "16": {
+                "data": [
+                    "Nom"
+                ],
+                "events": [
+                    {
+                        "name": "16 - Posh Vad Nom",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "17": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "17 - Posh Vad Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "18": {
+                "data": [
+                    "Ekadashi",
+                    "Shattila Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "18 - Posh Vad Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shattila Ekadashi",
+                        "color": "white"
+                    },
+                    {
+                        "name": "Shri Yogiji Maharaj Swadhamgaman Din Tithi",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "19": {
+                "data": [
+                    "Baras"
+                ],
+                "events": [
+                    {
+                        "name": "19 - Posh Vad Baras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "20": {
+                "data": [
+                    "Teras"
+                ],
+                "events": [
+                    {
+                        "name": "20 - Posh Vad Teras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "21": {
+                "data": [
+                    "Amas"
+                ],
+                "events": [
+                    {
+                        "name": "21 - Posh Vad Amas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "22": {
+                "data": [
+                    "Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "22 - Maha Sud Padvo",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "23": {
+                "data": [
+                    "yogijiMaharaj.png"
+                ],
+                "events": [
+                    {
+                        "name": "23 - Maha Sud Bij",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Yogiji Maharaj Swadhamgaman Din",
+                        "color": "#60a5fa"
+                    },
+                    {
+                        "name": "Danti & Navapura Mandir Patosav",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "24": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "24 - Maha Sud Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "25": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "25 - Maha Sud Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "26": {
+                "data": [
+                    "shastrijiMaharaj.png"
+                ],
+                "events": [
+                    {
+                        "name": "26 - Maha Sud Pancham",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Republic Day",
+                        "color": "#fb923c"
+                    },
+                    {
+                        "name": "Shri Shastriji Maharaj Swadhamgaman Din",
+                        "color": "#60a5fa"
+                    },
+                    {
+                        "name": "Vasant Panchami, Shri Shishapatri Jayanti",
+                        "color": "#60a5fa"
+                    },
+                    {
+                        "name": "Ghodasar - Amadavad Harimandir Patostav",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "27": {
+                "data": [
+                    "Chhath"
+                ],
+                "events": [
+                    {
+                        "name": "27 - Maha Sud Chhath",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "28": {
+                "data": [
+                    "Satam"
+                ],
+                "events": [
+                    {
+                        "name": "28 - Maha Sud Satam",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "29": {
+                "data": [
+                    "gopalanadSwami.png"
+                ],
+                "events": [
+                    {
+                        "name": "29 - Maha Sud Aatham",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Gopalanand Swami Pragatya Din",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "30": {
+                "data": [
+                    "Nom"
+                ],
+                "events": [
+                    {
+                        "name": "30 - Maha Sud Nom",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "31": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "31 - Maha Sud Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            }
+        },
+        "February": {
+            "GujName": "VS-2079 - Maha-Fagan",
+            "startEmpty": 2,
+            "endEmpty": 5,
+            "days": 28,
+            "1": {
+                "data": [
+                    "Ekadashi",
+                    "Jaya Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "1 - Maha Sud Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Jaya Ekadashi",
+                        "color": "white"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "2": {
+                "data": [
+                    "Baras"
+                ],
+                "events": [
+                    {
+                        "name": "2 - Maha Sud Baras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "3": {
+                "data": [
+                    "Teras",
+                    "Shri Vishwakarma Jayanti"
+                ],
+                "events": [
+                    {
+                        "name": "3 - Maha Sud Teras",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Vishwakarma Jayanti",
+                        "color": "white"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "4": {
+                "data": [
+                    "Chaudas"
+                ],
+                "events": [
+                    {
+                        "name": "4 - Maha Sud Chaudas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "5": {
+                "data": [
+                    "Poonam"
+                ],
+                "events": [
+                    {
+                        "name": "5 - Maha Sud Poonam",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "6": {
+                "data": [
+                    "Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "6 - Maha Vas Padvo",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "7": {
+                "data": [
+                    "Bij"
+                ],
+                "events": [
+                    {
+                        "name": "7 - Maha Vad Bij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "8": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "8 - Maha Vad Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "9": {
+                "data": [],
+                "events": [
+                    {
+                        "name": "9 - Maha Vad Choth",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Bhaktidham - Netrang Mandir Patostav",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "templeDate"
+            },
+            "10": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "10 - Maha Vad Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "11": {
+                "data": [
+                    "Pancham"
+                ],
+                "events": [
+                    {
+                        "name": "11 - Maha Vad Pancham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "12": {
+                "data": [
+                    "Chhath"
+                ],
+                "events": [
+                    {
+                        "name": "12 - Maha Vad Chhath",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "13": {
+                "data": [
+                    "Satam"
+                ],
+                "events": [
+                    {
+                        "name": "13 - Maha Vad Satam",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "14": {
+                "data": [
+                    "Aatham"
+                ],
+                "events": [
+                    {
+                        "name": "14 - Maha Vad Aatham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "15": {
+                "data": [
+                    "Nom",
+                    "Shri Aksharvihari Swami Pragatya Din"
+                ],
+                "events": [
+                    {
+                        "name": "15 - Mah Vad Nom",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Aksharvihari Swami Pragatya Din",
+                        "color": "white"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "16": {
+                "data": [
+                    "Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "16 - Maha Vad Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Vijaya Ekadashi",
+                        "color": "white"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "17": {
+                "data": [],
+                "events": [
+                    {
+                        "name": "17 - Mah Vad Baras",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Machhivas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "templeDate"
+            },
+            "18": {
+                "data": [
+                    "shiv.png"
+                ],
+                "events": [
+                    {
+                        "name": "18 - Maha Vad Teras",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Maha Shivaratri",
+                        "color": "#fb923c"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "19": {
+                "data": [
+                    "shastrijiMaharaj.png"
+                ],
+                "events": [
+                    {
+                        "name": "19 - Maha Vad Chaudash",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Shastriji Maharaj Diksha Din",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "20": {
+                "data": [
+                    "Amas"
+                ],
+                "events": [
+                    {
+                        "name": "20 - Maha Vad Amas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "21": {
+                "data": [
+                    "Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "21 - Fagan Sud Padvo",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "22": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "22 - Fagan Sud Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "23": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "22 - Fagan Sud Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "24": {
+                "data": [
+                    "Pancham"
+                ],
+                "events": [
+                    {
+                        "name": "24 - Fagan Sud Pancham",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Rajkot Mandir Patostav",
+                        "color": "blue-500"
+                    }
+                ],
+                "type": "templeDate"
+            },
+            "25": {
+                "data": [
+                    "Chhath"
+                ],
+                "events": [
+                    {
+                        "name": "25 - Fagan Sud Chhath",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "26": {
+                "data": [
+                    "Satam",
+                    "Holashtak Betha"
+                ],
+                "events": [
+                    {
+                        "name": "26 - Fagan Sud Satam",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Holashtak Betha",
+                        "color": "white"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "27": {
+                "data": [
+                    "Aatham"
+                ],
+                "events": [
+                    {
+                        "name": "27 - Fagan Sud Aatham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "28": {
+                "data": [
+                    "Nom"
+                ],
+                "events": [
+                    {
+                        "name": "28 - Fagan Sud Nom",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            }
+        },
+        "March": {
+            "GujName": "VS-2079 - Fagan-Chaitra",
+            "startEmpty": 2,
+            "endEmpty": 2,
+            "days": 31,
+            "1": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "1 - Fagan Sud Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "2": {
+                "data": [
+                    "Ekadashi "
+                ],
+                "events": [
+                    {
+                        "name": "2 - Fagan Sud Ekadashi",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "3": {
+                "data": [
+                    "Ekadashi",
+                    "Amalki Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "3 - Fagan Sud Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Amalki Ekadashi",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "4": {
+                "data": [
+                    "Baras"
+                ],
+                "events": [
+                    {
+                        "name": "4 - Fagan Sud Baras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "5": {
+                "data": [
+                    "Teras"
+                ],
+                "events": [
+                    {
+                        "name": "5 - Fagan Sud Teras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "6": {
+                "data": [
+                    "bhagatji.png"
+                ],
+                "events": [
+                    {
+                        "name": "6 - Fagan Sud Poonam",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Bhagataji Maharaj Pragatya Din",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "7": {
+                "data": [
+                    "Poonam",
+                    "Dhuleti"
+                ],
+                "events": [
+                    {
+                        "name": "7 - Fagan Sud Poonam",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Dhuleti",
+                        "color": "#fb923c"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "8": {
+                "data": [
+                    "Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "8 - Fagan Vad Padvo",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "9": {
+                "data": [
+                    "Bij"
+                ],
+                "events": [
+                    {
+                        "name": "9 - Fagan Vad Bij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "10": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "10 - Fagan Vad Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "11": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "11 - Fagan Vad Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "12": {
+                "data": [
+                    "Pancham"
+                ],
+                "events": [
+                    {
+                        "name": "12 - Fagan Vad Pancham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "13": {
+                "data": [
+                    "Chhath"
+                ],
+                "events": [
+                    {
+                        "name": "13 - Fagan Vad Chhath",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "14": {
+                "data": [
+                    "Satam"
+                ],
+                "events": [
+                    {
+                        "name": "14 - Fagan Vad Satam",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "15": {
+                "data": [
+                    "Aatham"
+                ],
+                "events": [
+                    {
+                        "name": "15 - Fagan Vad Aatham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "16": {
+                "data": [
+                    "Nom"
+                ],
+                "events": [
+                    {
+                        "name": "16 - Fagan Vad Nom",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "17": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "17 - Fagan Vad Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "18": {
+                "data": [
+                    "Ekadashi",
+                    "Papmochani Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "18 - Fagan Vad Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Papmochani Ekadashi",
+                        "color": "white"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "19": {
+                "data": [
+                    "Baras"
+                ],
+                "events": [
+                    {
+                        "name": "19 - Fagan Vad Baras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "20": {
+                "data": [
+                    "Chaudas"
+                ],
+                "events": [
+                    {
+                        "name": "20 - Fagan Vad Chaudas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "21": {
+                "data": [
+                    "Amas"
+                ],
+                "events": [
+                    {
+                        "name": "21 - Fagan Vad Amas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "22": {
+                "data": [
+                    "Padvo",
+                    "Gudi Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "22 - Chaitra Sud Padvo",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Gudi Padvo",
+                        "color": "#fb923c"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "23": {
+                "data": [
+                    "Bij",
+                    "Cheti Chand"
+                ],
+                "events": [
+                    {
+                        "name": "23 - Chaitra Sud Bij",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Cheti Chand",
+                        "color": "#fb923c"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "24": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "24 - Chaitra Sud Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "25": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "25 - Chaitra Sud Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "26": {
+                "data": [
+                    "Pancham"
+                ],
+                "events": [
+                    {
+                        "name": "26 - Chaitra Sud Pancham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "27": {
+                "data": [],
+                "events": [
+                    {
+                        "name": "5 - Chaitra Sud Chhath",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Bharuch Mandir Patostav",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "templeDate"
+            },
+            "28": {
+                "data": [
+                    "Satam"
+                ],
+                "events": [
+                    {
+                        "name": "28 - Chaitra Sud Satam",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "29": {
+                "data": [
+                    "Atham"
+                ],
+                "events": [
+                    {
+                        "name": "29 - Chaitra Sud Atham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "30": {
+                "data": [
+                    "maharaj.png"
+                ],
+                "events": [
+                    {
+                        "name": "30 - Chaitra Sud Nom",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Bhagwan Swaminarayan Pragatya Din",
+                        "color": "#fb923c"
+                    },
+                    {
+                        "name": "Haridham - Sokhda Mandir Patostav",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "31": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "31 - Chaitra Sud Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            }
+        },
+        "April": {
+            "GujName": "VS-2079 - Fagan-Chaitra",
+            "startEmpty": 2,
+            "endEmpty": 2,
+            "days": 31,
+            "1": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "1 - Fagan Sud Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "2": {
+                "data": [
+                    "Ekadashi "
+                ],
+                "events": [
+                    {
+                        "name": "2 - Fagan Sud Ekadashi",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "3": {
+                "data": [
+                    "Ekadashi",
+                    "Amalki Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "3 - Fagan Sud Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Amalki Ekadashi",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "4": {
+                "data": [
+                    "Baras"
+                ],
+                "events": [
+                    {
+                        "name": "4 - Fagan Sud Baras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "5": {
+                "data": [
+                    "Teras"
+                ],
+                "events": [
+                    {
+                        "name": "5 - Fagan Sud Teras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "6": {
+                "data": [
+                    "bhagatji.png"
+                ],
+                "events": [
+                    {
+                        "name": "6 - Fagan Sud Poonam",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Shri Bhagataji Maharaj Pragatya Din",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "7": {
+                "data": [
+                    "Poonam",
+                    "Dhuleti"
+                ],
+                "events": [
+                    {
+                        "name": "7 - Fagan Sud Poonam",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Dhuleti",
+                        "color": "#fb923c"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "8": {
+                "data": [
+                    "Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "8 - Fagan Vad Padvo",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "9": {
+                "data": [
+                    "Bij"
+                ],
+                "events": [
+                    {
+                        "name": "9 - Fagan Vad Bij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "10": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "10 - Fagan Vad Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "11": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "11 - Fagan Vad Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "12": {
+                "data": [
+                    "Pancham"
+                ],
+                "events": [
+                    {
+                        "name": "12 - Fagan Vad Pancham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "13": {
+                "data": [
+                    "Chhath"
+                ],
+                "events": [
+                    {
+                        "name": "13 - Fagan Vad Chhath",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "14": {
+                "data": [
+                    "Satam"
+                ],
+                "events": [
+                    {
+                        "name": "14 - Fagan Vad Satam",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "15": {
+                "data": [
+                    "Aatham"
+                ],
+                "events": [
+                    {
+                        "name": "15 - Fagan Vad Aatham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "16": {
+                "data": [
+                    "Nom"
+                ],
+                "events": [
+                    {
+                        "name": "16 - Fagan Vad Nom",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "17": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "17 - Fagan Vad Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "18": {
+                "data": [
+                    "Ekadashi",
+                    "Papmochani Ekadashi"
+                ],
+                "events": [
+                    {
+                        "name": "18 - Fagan Vad Ekadashi",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Papmochani Ekadashi",
+                        "color": "white"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "19": {
+                "data": [
+                    "Baras"
+                ],
+                "events": [
+                    {
+                        "name": "19 - Fagan Vad Baras",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "20": {
+                "data": [
+                    "Chaudas"
+                ],
+                "events": [
+                    {
+                        "name": "20 - Fagan Vad Chaudas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "21": {
+                "data": [
+                    "Amas"
+                ],
+                "events": [
+                    {
+                        "name": "21 - Fagan Vad Amas",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "22": {
+                "data": [
+                    "Padvo",
+                    "Gudi Padvo"
+                ],
+                "events": [
+                    {
+                        "name": "22 - Chaitra Sud Padvo",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Gudi Padvo",
+                        "color": "#fb923c"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "23": {
+                "data": [
+                    "Bij",
+                    "Cheti Chand"
+                ],
+                "events": [
+                    {
+                        "name": "23 - Chaitra Sud Bij",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Cheti Chand",
+                        "color": "#fb923c"
+                    }
+                ],
+                "type": "multipleDate"
+            },
+            "24": {
+                "data": [
+                    "Trij"
+                ],
+                "events": [
+                    {
+                        "name": "24 - Chaitra Sud Trij",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "25": {
+                "data": [
+                    "Choth"
+                ],
+                "events": [
+                    {
+                        "name": "25 - Chaitra Sud Choth",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "26": {
+                "data": [
+                    "Pancham"
+                ],
+                "events": [
+                    {
+                        "name": "26 - Chaitra Sud Pancham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "27": {
+                "data": [],
+                "events": [
+                    {
+                        "name": "5 - Chaitra Sud Chhath",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Bharuch Mandir Patostav",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "templeDate"
+            },
+            "28": {
+                "data": [
+                    "Satam"
+                ],
+                "events": [
+                    {
+                        "name": "28 - Chaitra Sud Satam",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "29": {
+                "data": [
+                    "Atham"
+                ],
+                "events": [
+                    {
+                        "name": "29 - Chaitra Sud Atham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            },
+            "30": {
+                "data": [
+                    "maharaj.png"
+                ],
+                "events": [
+                    {
+                        "name": "30 - Chaitra Sud Nom",
+                        "color": "#94a3b8"
+                    },
+                    {
+                        "name": "Bhagwan Swaminarayan Pragatya Din",
+                        "color": "#fb923c"
+                    },
+                    {
+                        "name": "Haridham - Sokhda Mandir Patostav",
+                        "color": "#60a5fa"
+                    }
+                ],
+                "type": "imageDate"
+            },
+            "31": {
+                "data": [
+                    "Dasham"
+                ],
+                "events": [
+                    {
+                        "name": "31 - Chaitra Sud Dasham",
+                        "color": "#94a3b8"
+                    }
+                ],
+                "type": "normalDate"
+            }
+        }
+    }
+}
